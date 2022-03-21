@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plataforma GUFI</name>
+    </assembly>
+    <members>
+        <member name="M:Plataforma_GUFI.Controllers.EventosController.Post(Plataforma_GUFI.Domains.Evento)">
+            <summary>
+            Cadastra um novo evento
+            </summary>
+            <param name="novoEvento">Objeto novoEvento que será cadastrado</param>
+            <returns>Um status code 201 - Created</returns>
+        </member>
+        <member name="P:Plataforma_GUFI.Controllers.TiposUsuariosController._tiposUsuarioRepository">
+            Objeto _tiposUsuarioRepository que irá receber todos os métodos definidos na interface ITiposUsuarioRepository
+        </member>
+        <member name="M:Plataforma_GUFI.Controllers.UsuariosController.Get">
+            <summary>
+            Lista todos os usuários
+            </summary>
+            <returns>Uma lista de usuários e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Controllers.UsuariosController.GetById(System.Int32)">
+            <summary>
+            Busca um usuário através do ID
+            </summary>
+            <param name="id">ID do usuário que será buscado</param>
+            <returns>Um usuário buscado e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Controllers.UsuariosController.Post(Plataforma_GUFI.Domains.Usuario)">
+            <summary>
+            Cadastra um novo usuário
+            </summary>
+            <param name="novoUsuario">Objeto novoUsuario que será cadastrado</param>
+            <returns>Um status code 201 - Created</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Controllers.UsuariosController.Put(System.Int32,Plataforma_GUFI.Domains.Usuario)">
+            <summary>
+            Atualiza um usuário existente
+            </summary>
+            <param name="id">ID do usuário que será atualizado</param>
+            <param name="usuarioAtualizado">Objeto com as novas informações</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Controllers.UsuariosController.Delete(System.Int32)">
+            <summary>
+            Deleta um usuário existente
+            </summary>
+            <param name="id">ID do usuário que será deletado</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IEventoRepository.Listar">
+            <summary>
+            Lista todos os eventos
+            </summary>
+            <returns>Uma lista de eventos</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IEventoRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um evento através do ID
+            </summary>
+            <param name="id">ID do evento que será buscado</param>
+            <returns>Um evento buscado</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IEventoRepository.Cadastrar(Plataforma_GUFI.Domains.Evento)">
+            <summary>
+            Cadastra um novo evento
+            </summary>
+            <param name="novoEvento">Objeto novoEvento que será cadastrado</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IEventoRepository.Atualizar(System.Int32,Plataforma_GUFI.Domains.Evento)">
+            <summary>
+            Atualiza um evento existente
+            </summary>
+            <param name="id">ID do evento que será atualizado</param>
+            <param name="eventoAtualizado">Objeto com as novas informações</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IEventoRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta um evento existente
+            </summary>
+            <param name="id">ID do evento que será deletado</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IInstituicaoRepository.Listar">
+            <summary>
+            Lista todas as instituicoes
+            </summary>
+            <returns>Uma lista de instituicoes</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IInstituicaoRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca uma instituicao através do ID
+            </summary>
+            <param name="id">ID da instituicao que será buscada</param>
+            <returns>Uma instituicao buscada</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IInstituicaoRepository.Cadastrar(Plataforma_GUFI.Domains.Instituico)">
+            <summary>
+            Cadastra uma nova instituicao
+            </summary>
+            <param name="novaInstituicao">Objeto novaInstituicao que será cadastrada</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IInstituicaoRepository.Atualizar(System.Int32,Plataforma_GUFI.Domains.Instituico)">
+            <summary>
+            Atualiza uma instituicao existente
+            </summary>
+            <param name="id">ID da instituicao que será atualizada</param>
+            <param name="instituicaoAtualizada">Objeto com as novas informações</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IInstituicaoRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta uma instituicao existente
+            </summary>
+            <param name="id">ID da instituicao que será deletada</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IPresencaRepository.Listar">
+            <summary>
+            Lista todas as presenças
+            </summary>
+            <returns>Uma lista de presenças</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IPresencaRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um presença através do ID
+            </summary>
+            <param name="id">ID da presença que será buscada</param>
+            <returns>Uma presença buscada</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IPresencaRepository.Cadastrar(Plataforma_GUFI.Domains.Presenca)">
+            <summary>
+            Cadastra uma nova presença
+            </summary>
+            <param name="novaPresenca">Objeto novaPresenca que será cadastrado</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IPresencaRepository.Atualizar(System.Int32,Plataforma_GUFI.Domains.Presenca)">
+            <summary>
+            Atualiza uma presença existente
+            </summary>
+            <param name="id">ID da presença que será buscada</param>
+            <param name="presencaAtualizada">Objeto com as novas informações</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IPresencaRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta uma presença existente
+            </summary>
+            <param name="id">ID da presença que será deletado</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IPresencaRepository.ListarMinhas(System.Int32)">
+            <summary>
+            Lista todos os eventos que um determinado usuário participa
+            </summary>
+            <param name="id">ID do usuário que participa dos eventos listados</param>
+            <returns>Uma lista de presenças com os dados dos eventos</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IPresencaRepository.Inscrever(Plataforma_GUFI.Domains.Presenca)">
+            <summary>
+            Cria uma nova presença
+            </summary>
+            <param name="inscricao">Objeto com as informações da inscrição</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IPresencaRepository.AprovarRecusar(System.Int32,System.String)">
+            <summary>
+            Altera o status de uma presença
+            </summary>
+            <param name="id">ID da presença que terá a situação alterada</param>
+            <param name="status">Parâmetro que atualiza o situação da presença para 1 - Confirmada, 2 - Não confirmada ou 0 - Recusada</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.ITiposEventoRepository.Cadastrar(Plataforma_GUFI.Domains.TiposEvento)">
+            <summary>
+            Cadastra um novo tipo de evento
+            </summary>
+            <param name="novoTipoEvento">Objeto novoTipoEvento que será cadastrado</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.ITiposEventoRepository.Atualizar(System.Int32,Plataforma_GUFI.Domains.TiposEvento)">
+            <summary>
+            Atualiza um tipo de evento existente
+            </summary>
+            <param name="id">ID do tipo de evento que será atualizado</param>
+            <param name="tipoEventoAtualizado">Objeto com as novas informações</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.ITiposUsuarioRepository.Listar">
+            <summary>
+            Lista todos os tipos de usuários
+            </summary>
+            <returns>Uma lista de tipos de usuários</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.ITiposUsuarioRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um tipo de usuário através do ID
+            </summary>
+            <param name="id">ID do tipo de usuário que será buscado</param>
+            <returns>Um tipo de usuário buscado</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.ITiposUsuarioRepository.Cadastrar(Plataforma_GUFI.Domains.TiposUsuario)">
+            <summary>
+            Cadastra um novo tipo de usuário
+            </summary>
+            <param name="novoTipoUsuario">Objeto novoTipoUsuario que será cadastrado</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.ITiposUsuarioRepository.Atualizar(System.Int32,Plataforma_GUFI.Domains.TiposUsuario)">
+            <summary>
+            Atualiza um tipo de usuário existente
+            </summary>
+            <param name="id">ID do tipo de usuário que será atualizado</param>
+            <param name="tipoUsuarioAtualizado">Objeto com as novas informações</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.ITiposUsuarioRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta um tipo de usuário existente
+            </summary>
+            <param name="id">ID do tipo de usuário que será deletado</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IUsuarioRepository.Listar">
+            <summary>
+            Lista todos os usuários
+            </summary>
+            <returns>Uma lista de usuários</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IUsuarioRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um usuário através do ID
+            </summary>
+            <param name="id">ID do usuário que será buscado</param>
+            <returns>Um usuário buscado</returns>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IUsuarioRepository.Cadastrar(Plataforma_GUFI.Domains.Usuario)">
+            <summary>
+            Cadastra um novo usuário
+            </summary>
+            <param name="novoUsuario">Objeto novoUsuario que será cadastrado</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IUsuarioRepository.Atualizar(System.Int32,Plataforma_GUFI.Domains.Usuario)">
+            <summary>
+            Atualiza um usuário existente
+            </summary>
+            <param name="id">ID do usuário que será atualizado</param>
+            <param name="usuarioAtualizado">Objeto com as novas informações</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IUsuarioRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta um usuário existente
+            </summary>
+            <param name="id">ID do usuário que será deletado</param>
+        </member>
+        <member name="M:Plataforma_GUFI.Interfaces.IUsuarioRepository.Login(System.String,System.String)">
+            <summary>
+            Valida o usuário
+            </summary>
+            <param name="email">e-mail do usuário</param>
+            <param name="senha">senha do usuário</param>
+            <returns>Um objeto do tipo Usuario que foi buscado</returns>
+        </member>
+        <member name="F:Plataforma_GUFI.Repositories.TiposEventoRepository.ctx">
+            <summary>
+            Objeto contexto por onde serão chamados os métodos do EF Core
+            </summary>
+        </member>
+    </members>
+</doc>

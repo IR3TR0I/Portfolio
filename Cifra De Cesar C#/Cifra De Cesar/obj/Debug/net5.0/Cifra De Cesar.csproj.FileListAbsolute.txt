@@ -1,0 +1,32 @@
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.exe
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.deps.json
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.runtimeconfig.json
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.runtimeconfig.dev.json
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.dll
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\bin\Debug\net5.0\ref\Cifra De Cesar.dll
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.pdb
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.csproj.AssemblyReference.cache
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.AssemblyInfoInputs.cache
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.AssemblyInfo.cs
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.csproj.CoreCompileInputs.cache
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.dll
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\obj\Debug\net5.0\ref\Cifra De Cesar.dll
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.pdb
+C:\Users\moniq\Desktop\Estudos\C#\Cifra De Cesar\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.genruntimeconfig.cache
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.exe
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.deps.json
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.runtimeconfig.json
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.runtimeconfig.dev.json
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.dll
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\bin\Debug\net5.0\ref\Cifra De Cesar.dll
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\bin\Debug\net5.0\Cifra De Cesar.pdb
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.csproj.AssemblyReference.cache
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.AssemblyInfoInputs.cache
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.AssemblyInfo.cs
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.csproj.CoreCompileInputs.cache
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.dll
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\obj\Debug\net5.0\ref\Cifra De Cesar.dll
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.pdb
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\Cifra De Cesar C#\Cifra De Cesar\obj\Debug\net5.0\Cifra De Cesar.genruntimeconfig.cache

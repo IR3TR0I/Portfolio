@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJv1ZVyemn+JKQ1cisGLGjAsInsaUFjY5c+7QijnPS7VDwpC8Axiw6e4teAna72hAm6mYwzHvk2nO7MQgLOnpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moniq\\Desktop\\Portfolio Ruan\\Projetos\\CodeTour\\CodeTour.Comum\\CodeTour.Comum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moniq\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
+    "C:\\Users\\moniq\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\moniq\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\moniq\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.16.0\\microsoft.identitymodel.jsonwebtokens.6.16.0.nupkg.sha512",
+    "C:\\Users\\moniq\\.nuget\\packages\\microsoft.identitymodel.logging\\6.16.0\\microsoft.identitymodel.logging.6.16.0.nupkg.sha512",
+    "C:\\Users\\moniq\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.16.0\\microsoft.identitymodel.tokens.6.16.0.nupkg.sha512",
+    "C:\\Users\\moniq\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.16.0\\system.identitymodel.tokens.jwt.6.16.0.nupkg.sha512",
+    "C:\\Users\\moniq\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

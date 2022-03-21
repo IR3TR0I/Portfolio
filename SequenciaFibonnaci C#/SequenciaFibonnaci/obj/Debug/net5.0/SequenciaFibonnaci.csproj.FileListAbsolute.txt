@@ -1,0 +1,16 @@
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\bin\Debug\net5.0\SequenciaFibonnaci.exe
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\bin\Debug\net5.0\SequenciaFibonnaci.deps.json
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\bin\Debug\net5.0\SequenciaFibonnaci.runtimeconfig.json
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\bin\Debug\net5.0\SequenciaFibonnaci.runtimeconfig.dev.json
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\bin\Debug\net5.0\SequenciaFibonnaci.dll
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\bin\Debug\net5.0\ref\SequenciaFibonnaci.dll
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\bin\Debug\net5.0\SequenciaFibonnaci.pdb
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\obj\Debug\net5.0\SequenciaFibonnaci.csproj.AssemblyReference.cache
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\obj\Debug\net5.0\SequenciaFibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\obj\Debug\net5.0\SequenciaFibonnaci.AssemblyInfoInputs.cache
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\obj\Debug\net5.0\SequenciaFibonnaci.AssemblyInfo.cs
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\obj\Debug\net5.0\SequenciaFibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\obj\Debug\net5.0\SequenciaFibonnaci.dll
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\obj\Debug\net5.0\ref\SequenciaFibonnaci.dll
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\obj\Debug\net5.0\SequenciaFibonnaci.pdb
+C:\Users\moniq\Desktop\Estudos\C#\SequenciaFibonnaci\SequenciaFibonnaci\obj\Debug\net5.0\SequenciaFibonnaci.genruntimeconfig.cache

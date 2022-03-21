@@ -1,0 +1,12 @@
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\bin\Debug\net5.0\CodeTour.Comum.deps.json
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\bin\Debug\net5.0\CodeTour.Comum.dll
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\bin\Debug\net5.0\ref\CodeTour.Comum.dll
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\bin\Debug\net5.0\CodeTour.Comum.pdb
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\obj\Debug\net5.0\CodeTour.Comum.csproj.AssemblyReference.cache
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\obj\Debug\net5.0\CodeTour.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\obj\Debug\net5.0\CodeTour.Comum.AssemblyInfoInputs.cache
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\obj\Debug\net5.0\CodeTour.Comum.AssemblyInfo.cs
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\obj\Debug\net5.0\CodeTour.Comum.csproj.CoreCompileInputs.cache
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\obj\Debug\net5.0\CodeTour.Comum.dll
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\obj\Debug\net5.0\ref\CodeTour.Comum.dll
+C:\Users\moniq\Desktop\Portfolio Ruan\Projetos\CodeTour\CodeTour.Comum\obj\Debug\net5.0\CodeTour.Comum.pdb
