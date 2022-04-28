@@ -1,0 +1,140 @@
+{
+	"info": {
+		"_postman_id": "798c739c-9c85-4159-bb15-a96565dbeecd",
+		"name": "Node.js_AUTHJWT",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Teste Rota Publica",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URLJWT}}/",
+					"host": [
+						"{{URLJWT}}"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cadastro",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\":\"carlos\",\r\n    \"email\":\"carlosteste@gmail.com\",\r\n    \"senha\":\"pastel234\",\r\n    \"confirmarSenha\":\"pastel234\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URLJWT}}/auth/cadastro",
+					"host": [
+						"{{URLJWT}}"
+					],
+					"path": [
+						"auth",
+						"cadastro"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "LoginUsuario",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\":\"ruangcf@gmail.com\",\r\n    \"senha\":\"pastel231\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URLJWT}}/auth/LoginUser",
+					"host": [
+						"{{URLJWT}}"
+					],
+					"path": [
+						"auth",
+						"LoginUser"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ListarUserId privada",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{TOKEN}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URLJWT}}/user/6262096f0d38005546c20c20",
+					"host": [
+						"{{URLJWT}}"
+					],
+					"path": [
+						"user",
+						"6262096f0d38005546c20c20"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "URLJWT",
+			"value": "http://localhost:3000",
+			"type": "string"
+		},
+		{
+			"key": "TOKEN",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNjIwOTZmMGQzODAwNTU0NmMyMGMyMCIsImlhdCI6MTY1MDU5ODA5Nn0.dNbT7w41kkRcnK0G70_vZvyaZ7nOXAiF6nuULKOmEtw",
+			"type": "string"
+		}
+	]
+}

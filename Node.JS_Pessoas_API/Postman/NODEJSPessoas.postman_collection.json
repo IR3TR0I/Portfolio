@@ -1,0 +1,132 @@
+{
+	"info": {
+		"_postman_id": "a467b12e-e771-454e-8ce6-b9e3bb22c503",
+		"name": "NODEJSPessoas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "RetornoTeste",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "InserirPessoa",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Nome\": \"Marcos\",\r\n    \"Salario\":\"7500\",\r\n    \"Aprovacao\":\"true\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}/Pessoa",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"Pessoa"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ListarPessoas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/Pessoa",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"Pessoa"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ListarPorIdPessoa",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/Pessoa/625f79a37aae1ea2c734376c",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"Pessoa",
+						"625f79a37aae1ea2c734376c"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AtualizaPessoaPorId",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/Pessoa/",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"Pessoa",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "URL",
+			"value": "http://localhost:3000",
+			"type": "string"
+		}
+	]
+}
